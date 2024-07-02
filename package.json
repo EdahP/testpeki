@@ -1,0 +1,22 @@
+{
+  "name": "edah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdahP/testpeki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdahP/testpeki/issues"
+  },
+  "homepage": "https://github.com/EdahP/testpeki#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
